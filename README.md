@@ -1,4 +1,4 @@
-# PHM2017
+# [PHM2017](https://www.phmsociety.org/events/conference/phm/17/data-challenge)
 
 *This year’s challenge continues the trend started in the previous years and is focused on the combination of physics-based modeling and statistical approaches for prediction. It is recommended that the solution you design and implement use physics-based modeling elements. Points will be given to those approaches that provide a physical connection to the data such as health states of various components, relationship between data and model parameters or states, etc.*
 
